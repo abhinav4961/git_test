@@ -1,6 +1,6 @@
 ### Step-Wise-Guide to Using Git
 
-This guide provides a simple and unique approach to getting started with Git, a version control system widely used for managing code changes.
+Simple guide tp get started with Git
 
 ### Step 1: Install Git
 
@@ -46,7 +46,7 @@ This guide provides a simple and unique approach to getting started with Git, a 
 
 ### Step 5: Commit Changes
 
-1. **Commit the Staged Files**: Save your changes with a descriptive message:
+**Commit the Staged Files**: Save your changes with a message:
    ```bash
    git commit -m "commit1"
    ```
@@ -63,23 +63,18 @@ This guide provides a simple and unique approach to getting started with Git, a 
 
 ### Step 7: Push Changes to Remote Repository
 
-1. **Add Remote Repository**: If you have a remote repository (like on GitHub), link it:
-   ```bash
-   git remote add origin https://github.com/yourusername/my_project.git
-   ```
-
-2. **Push Your Changes**:
+ **Push Your Changes**:
    ```bash
    git push -u origin main
    ```
 
 ### Step 8: View Your Commit History
 
-1. **Check Commit History**: To see the history of your commits, use:
+ **Check Commit History**: Check history of your commits by using:
    ```bash
    git log
    ```
 
-### Celebrate Your Progress
+### You are Set!
 
-You've successfully set up Git, created a repository, made changes, and pushed them to a remote server! Continue exploring Git's features, such as merging and collaborating with others.
+You've successfully set up Git.
