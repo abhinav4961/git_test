@@ -1,4 +1,4 @@
-## Step-by-Step Guide to Using Git
+### Step-by-Step Guide to Using Git
 
 This guide provides a simple and unique approach to getting started with Git, a version control system widely used for managing code changes.
 
@@ -13,7 +13,7 @@ This guide provides a simple and unique approach to getting started with Git, a 
    ```bash
    git config --global user.name "Your Name"
    ```
-   
+
 2. **Set Your Email**: This email will be associated with your commits:
    ```bash
    git config --global user.email "you@example.com"
@@ -51,14 +51,7 @@ This guide provides a simple and unique approach to getting started with Git, a 
    git commit -m "Initial commit with README"
    ```
 
-### Step 6: Create a Branch
-
-1. **Create a New Branch**: For new features or changes, create a branch:
-   ```bash
-   git checkout -b feature_branch
-   ```
-
-### Step 7: Make Changes and Commit
+### Step 6: Make Changes and Commit
 
 1. **Edit Your File**: Modify `README.md` or create new files as needed.
 
@@ -68,19 +61,7 @@ This guide provides a simple and unique approach to getting started with Git, a 
    git commit -m "Updated README with more information"
    ```
 
-### Step 8: Merge Changes
-
-1. **Switch Back to Main Branch**:
-   ```bash
-   git checkout main
-   ```
-
-2. **Merge Your Feature Branch**:
-   ```bash
-   git merge feature_branch
-   ```
-
-### Step 9: Push Changes to Remote Repository
+### Step 7: Push Changes to Remote Repository
 
 1. **Add Remote Repository**: If you have a remote repository (like on GitHub), link it:
    ```bash
@@ -92,7 +73,7 @@ This guide provides a simple and unique approach to getting started with Git, a 
    git push -u origin main
    ```
 
-### Step 10: View Your Commit History
+### Step 8: View Your Commit History
 
 1. **Check Commit History**: To see the history of your commits, use:
    ```bash
@@ -101,6 +82,11 @@ This guide provides a simple and unique approach to getting started with Git, a 
 
 ### Celebrate Your Progress
 
-You've successfully set up Git, created a repository, made changes, and pushed them to a remote server! Continue exploring Git's features, such as branching, merging, and collaborating with others.
+You've successfully set up Git, created a repository, made changes, and pushed them to a remote server! Continue exploring Git's features, such as merging and collaborating with others.
 
----
+Citations:
+[1] https://linuxize.com/post/how-to-configure-git-username-and-email/
+[2] https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git
+[3] https://stackoverflow.com/questions/6116548/how-to-tell-git-to-use-the-correct-identity-name-and-email-for-a-given-project
+[4] https://support.atlassian.com/bitbucket-cloud/docs/configure-your-dvcs-username-for-commits/
+[5] https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
