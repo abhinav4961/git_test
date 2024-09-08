@@ -1,6 +1,6 @@
-### Step-Wise-Guide to Using Git
+### Step-Wise-Guide for Git
 
-Simple guide tp get started with Git
+Simple guide to get started with Git
 
 ### Step 1: Install Git
 
