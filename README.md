@@ -36,7 +36,7 @@ This guide provides a simple and unique approach to getting started with Git, a 
 
 1. **Create a File**: Create a new file in your project directory, for example:
    ```bash
-   echo "Hello, Git!" > README.md
+   echo "Hello" > README.md
    ```
 
 2. **Stage the File**: Add the file to the staging area:
