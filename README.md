@@ -48,7 +48,7 @@ This guide provides a simple and unique approach to getting started with Git, a 
 
 1. **Commit the Staged Files**: Save your changes with a descriptive message:
    ```bash
-   git commit -m "Initial commit with README"
+   git commit -m "commit1"
    ```
 
 ### Step 6: Make Changes and Commit
@@ -58,7 +58,7 @@ This guide provides a simple and unique approach to getting started with Git, a 
 2. **Stage and Commit**: After making changes, repeat the staging and committing process:
    ```bash
    git add README.md
-   git commit -m "Updated README with more information"
+   git commit -m "commit2"
    ```
 
 ### Step 7: Push Changes to Remote Repository
@@ -83,10 +83,3 @@ This guide provides a simple and unique approach to getting started with Git, a 
 ### Celebrate Your Progress
 
 You've successfully set up Git, created a repository, made changes, and pushed them to a remote server! Continue exploring Git's features, such as merging and collaborating with others.
-
-Citations:
-[1] https://linuxize.com/post/how-to-configure-git-username-and-email/
-[2] https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git
-[3] https://stackoverflow.com/questions/6116548/how-to-tell-git-to-use-the-correct-identity-name-and-email-for-a-given-project
-[4] https://support.atlassian.com/bitbucket-cloud/docs/configure-your-dvcs-username-for-commits/
-[5] https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
