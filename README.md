@@ -1,7 +1,3 @@
-Sure! Here’s the complete guide for you to copy:
-
----
-
 ## Step-by-Step Guide to Using Git
 
 This guide provides a simple and unique approach to getting started with Git, a version control system widely used for managing code changes.
@@ -108,5 +104,3 @@ This guide provides a simple and unique approach to getting started with Git, a 
 You've successfully set up Git, created a repository, made changes, and pushed them to a remote server! Continue exploring Git's features, such as branching, merging, and collaborating with others.
 
 ---
-
-Feel free to copy and use this guide as needed!
