@@ -1,4 +1,4 @@
-### Step-by-Step Guide to Using Git
+### Step-Wise-Guide to Using Git
 
 This guide provides a simple and unique approach to getting started with Git, a version control system widely used for managing code changes.
 
