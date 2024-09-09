@@ -1,5 +1,3 @@
-Here is a formatted step-by-step guide for getting started with Git, suitable for a README file on GitHub:
-
 # Step-Wise Guide for Git
 
 ## Step 1: Install Git
