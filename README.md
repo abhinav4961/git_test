@@ -63,7 +63,7 @@
 
 ## Step 5: Commit Changes
 
-1. **Commit the Staged Files**: Save your changes with a message:
+**Commit the Staged Files**: Save your changes with a message:
    ```bash
    git commit -m "commit1"
    ```
@@ -80,14 +80,14 @@
 
 ## Step 7: Push Changes to Remote Repository
 
-1. **Push Your Changes**:
+**Push Your Changes**:
    ```bash
    git push -u origin main
    ```
 
 ## Step 8: View Your Commit History
 
-1. **Check Commit History**: Check the history of your commits by using:
+**Check Commit History**: Check the history of your commits by using:
    ```bash
    git log
    ```
